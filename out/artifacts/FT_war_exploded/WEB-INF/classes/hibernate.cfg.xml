@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-configuration PUBLIC
+        "-//Hibernate/Hibernate Configuration DTD//EN"
+        "http://www.hibernate.org/dtd/hibernate-configuration-3.0.dtd">
+<hibernate-configuration>
+    <session-factory>
+        <property name="connection.url">jdbc:mysql://localhost:3306/ii_camp</property>
+        <property name="connection.driver_class">com.mysql.jdbc.Driver</property>
+        <property name="connection.username">root</property>
+        <property name="connection.password">czm19990216</property>
+        <property name="dialect">org.hibernate.dialect.MySQLDialect</property>
+
+        <!-- 是否在控制台显示sql语句 -->
+        <property name="show_sql">true</property>
+        <!-- 是否格式化显示的sql语句 -->
+        <property name="format_sql">true</property>
+        <!-- 是否自动生成数据表的策略,create代表每次启动程序都重新创建数据表 -->
+        <property name="hbm2ddl.auto">update</property>
+
+
+
+        <mapping class="entity.BusinessEntity"/>
+        <mapping resource="entity/BusinessEntity.hbm.xml"/>
+        <mapping class="entity.CarRequirementEntity"/>
+        <mapping resource="entity/CarRequirementEntity.hbm.xml"/>
+        <mapping class="entity.ItemEntity"/>
+        <mapping resource="entity/ItemEntity.hbm.xml"/>
+        <mapping class="entity.MappingCarPlaceEntity"/>
+        <mapping resource="entity/MappingCarPlaceEntity.hbm.xml"/>
+        <mapping class="entity.MappingCarUserEntity"/>
+        <mapping resource="entity/MappingCarUserEntity.hbm.xml"/>
+        <mapping class="entity.MappingGoodItemEntity"/>
+        <mapping resource="entity/MappingGoodItemEntity.hbm.xml"/>
+        <mapping class="entity.MappingGoodUserEntity"/>
+        <mapping resource="entity/MappingGoodUserEntity.hbm.xml"/>
+        <mapping class="entity.PinCarOrderEntity"/>
+        <mapping resource="entity/PinCarOrderEntity.hbm.xml"/>
+        <mapping class="entity.PinGoodOrderEntity"/>
+        <mapping resource="entity/PinGoodOrderEntity.hbm.xml"/>
+        <mapping class="entity.PlaceEntity"/>
+        <mapping resource="entity/PlaceEntity.hbm.xml"/>
+        <mapping class="entity.RewardActivityEntity"/>
+        <mapping resource="entity/RewardActivityEntity.hbm.xml"/>
+        <mapping class="entity.SessionEntity"/>
+        <mapping resource="entity/SessionEntity.hbm.xml"/>
+        <mapping class="entity.UserEntity"/>
+        <mapping resource="entity/UserEntity.hbm.xml"/>
+        <mapping class="entity.UserUnregisterEntity"/>
+        <mapping resource="entity/UserUnregisterEntity.hbm.xml"/>
+        <!-- <property name="connection.username"/> -->
+        <!-- <property name="connection.password"/> -->
+
+        <!-- DB schema will be updated if needed -->
+        <!-- <property name="hbm2ddl.auto">update</property> -->
+    </session-factory>
+</hibernate-configuration>

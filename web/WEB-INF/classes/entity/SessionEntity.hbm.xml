@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.SessionEntity" table="session" schema="ibm_icbc">
+        <id name="sessionId" column="session_id">
+            <generator class="uuid"/>
+        </id>
+        <property name="userId" column="user_id"/>
+        <property name="sessionToken" column="session_token"/>
+    </class>
+</hibernate-mapping>

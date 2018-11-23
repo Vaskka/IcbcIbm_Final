@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.UserEntity" table="user" schema="ibm_icbc">
+        <id name="userId" column="user_id">
+            <generator class="uuid"/>
+        </id>
+        <property name="userSex" column="user_sex"/>
+        <property name="userRealName" column="user_real_name"/>
+        <property name="userNickName" column="user_nick_name"/>
+        <property name="userPasswordHash" column="user_password_hash"/>
+        <property name="userPhoneNumber" column="user_phone_number"/>
+        <property name="userIdCard" column="user_id_card"/>
+        <property name="userBankCard" column="user_bank_card"/>
+        <property name="userCreateTime" column="user_create_time"/>
+        <property name="userPlaceId" column="user_place_id"/>
+    </class>
+</hibernate-mapping>

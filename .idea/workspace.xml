@@ -1,0 +1,1299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="FT:war exploded" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7401f6a2-3341-45bb-9510-73f157357147" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="IICAMP" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-719809556">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.10" value="1" />
+          <entry key="project.open.time.12" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.9" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="business" value="1" />
+          <entry key="car_requirement" value="1" />
+          <entry key="class" value="2" />
+          <entry key="item" value="1" />
+          <entry key="java" value="118" />
+          <entry key="jsp" value="1" />
+          <entry key="mapping_car_place" value="1" />
+          <entry key="mapping_car_user" value="1" />
+          <entry key="mapping_good_item" value="1" />
+          <entry key="mapping_good_user" value="1" />
+          <entry key="pin_car_order" value="1" />
+          <entry key="pin_good_order" value="1" />
+          <entry key="place" value="1" />
+          <entry key="sql" value="3" />
+          <entry key="xml" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="2" />
+          <entry key="Database Element" value="10" />
+          <entry key="JAVA" value="118" />
+          <entry key="JSP" value="1" />
+          <entry key="Scratch" value="3" />
+          <entry key="XML" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="13284" />
+          <entry key="jsp" value="19" />
+          <entry key="txt" value="21" />
+          <entry key="xml" value="98" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="13284" />
+          <entry key="JSP" value="19" />
+          <entry key="PLAIN_TEXT" value="21" />
+          <entry key="XML" value="98" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/CreatePinGood.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="629">
+              <caret line="58" column="101" selection-start-line="58" selection-start-column="101" selection-end-line="58" selection-end-column="101" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetBusinessAllItemRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+              <folding>
+                <element signature="e#479#480#0" expanded="true" />
+                <element signature="e#512#513#0" expanded="true" />
+                <element signature="e#564#565#0" expanded="true" />
+                <element signature="e#608#609#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetBusinessAllItemResponse.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#478#479#0" expanded="true" />
+                <element signature="e#509#510#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entity/MappingGoodItemEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="165">
+              <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/Util.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllPinGoodOrder.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1046">
+              <caret line="116" column="115" selection-start-line="116" selection-start-column="115" selection-end-line="116" selection-end-column="115" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="900">
+              <caret line="60" column="103" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/entity/ItemEntity.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="9" column="37" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="37" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/LoginRequest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/Login.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>time</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/db/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/hibernate.cfg.xml" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/Test.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/BaseRequestInner.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/BaseAlreadyLoginRequestInner.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/BaseResponseInner.java" />
+        <option value="$PROJECT_DIR$/src/entity/UserUnregisterEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetUnregisterUserRequestInner.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/VerifyCodeRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetUnregisterUser.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/LoginRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/LoginResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/MD5Utils.java" />
+        <option value="$PROJECT_DIR$/src/entity/SessionEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/SyncPositionRequest.java" />
+        <option value="$PROJECT_DIR$/src/entity/PlaceEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/UserEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/VerifyCode.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/Login.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/SyncPosition.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/DistanceUtil.java" />
+        <option value="$PROJECT_DIR$/src/entity/CarRequirementEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/PinCarOrderEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/MappingCarUserEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/CreateCarOrderResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/CreatePinCarOrder.java" />
+        <option value="$PROJECT_DIR$/src/dao/daoImpl/PinCarOrderEntityDaoImpl.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetAppropriatePinCarRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetAppropriatePinCarResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetAppropriatePinCar.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/JoinPInCarRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/JoinPinCarRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/JoinPinCarResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/CreatePinCarOrderRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/JoinPinCar.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetBusinessAllPinGoodOrderRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/Const.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetBusinessAllPinGoodOrderResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllPinGoodOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/CreateGoodOrder.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/CreateGoodOrderRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/CreatePinGoodResponse.java" />
+        <option value="$PROJECT_DIR$/src/entity/BusinessEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/PinGoodOrderEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/MappingGoodUserEntity.java" />
+        <option value="$PROJECT_DIR$/src/entity/MappingGoodItemEntity.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/CreatePinGood.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetBusinessAllItemRequest.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetBusinessAllItemResponse.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/Util.java" />
+        <option value="$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllItem.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="797" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iicamp" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iicamp" type="462c0819:PsiDirectoryNode" />
+              <item name="handler" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iicamp" type="462c0819:PsiDirectoryNode" />
+              <item name="request" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iicamp" type="462c0819:PsiDirectoryNode" />
+              <item name="response" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="iicamp" type="462c0819:PsiDirectoryNode" />
+              <item name="utils" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="FT" type="b2602c69:ProjectViewProjectNode" />
+              <item name="FT" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="util" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1542992217990" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+      <recent name="$PROJECT_DIR$/src/db" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.13" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.13" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:8081/iicamp/" />
+      <option name="BROWSER_ID" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+      <deployment>
+        <artifact name="FT:war exploded">
+          <settings>
+            <option name="CONTEXT_PATH" value="/iicamp" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_9_0_13_FT" />
+        <option name="HTTP_PORT" value="8081" />
+        <option name="JNDI_PORT" value="1100" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61443" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="FT:war exploded" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" ALTERNATIVE_JRE_ENABLED="false">
+      <deployment />
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_FT" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="true" />
+      <predefined_log_file id="Tomcat Catalina" enabled="true" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="61659" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7401f6a2-3341-45bb-9510-73f157357147" name="Default Changelist" comment="" />
+      <created>1542784387033</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1542784387033</updated>
+      <workItem from="1542784390821" duration="11403000" />
+      <workItem from="1542871135651" duration="1594000" />
+      <workItem from="1542895523855" duration="12427000" />
+      <workItem from="1542925034435" duration="12210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="37634000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="797" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49361703" visible="true" weight="0.26037195" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Image Layers" order="6" />
+      <window_info id="Learn" order="7" />
+      <window_info id="Web" order="8" sideWeight="0.506383" side_tool="true" visible="true" weight="0.26037195" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32907802" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32907802" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Console" order="7" weight="0.32907802" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32907802" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="10" />
+      <window_info anchor="bottom" id="Java Enterprise" order="11" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="12" weight="0.32907802" />
+      <window_info anchor="bottom" id="Version Control" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.3297568" />
+      <window_info anchor="right" id="Database" order="6" weight="0.3297568" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/entity/UserUnregisterEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="16" column="41" selection-start-line="16" selection-start-column="19" selection-end-line="16" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/SessionEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="9" selection-start-line="12" selection-start-column="9" selection-end-line="12" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/MD5Utils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="358">
+          <caret line="50" column="51" lean-forward="true" selection-start-line="50" selection-start-column="51" selection-end-line="50" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/PlaceEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/daoImpl/PlaceEntityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="305">
+          <caret line="73" column="23" lean-forward="true" selection-start-line="73" selection-start-column="23" selection-end-line="73" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/LoginResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+          <folding>
+            <element signature="e#398#399#0" expanded="true" />
+            <element signature="e#427#428#0" expanded="true" />
+            <element signature="e#471#472#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/DistanceUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="39">
+          <caret line="11" column="4" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+          <folding>
+            <element signature="e#329#330#0" expanded="true" />
+            <element signature="e#371#372#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/CarRequirementEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="26" column="5" lean-forward="true" selection-start-line="26" selection-start-column="5" selection-end-line="26" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/daoImpl/CarRequirementEntityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="34" column="19" selection-start-line="34" selection-start-column="19" selection-end-line="34" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/CarRequirementEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/CreateCarOrderResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#460#461#0" expanded="true" />
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#544#545#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/BaseAlreadyLoginRequestInner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="41" />
+          <folding>
+            <element signature="e#308#309#0" expanded="true" />
+            <element signature="e#337#338#0" expanded="true" />
+            <element signature="e#381#382#0" expanded="true" />
+            <element signature="e#417#418#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#523#524#0" expanded="true" />
+            <element signature="e#559#560#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetAppropriatePinCarResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="class#UserInner#0;class#AppropriatePinCarInner#0;class#GetAppropriatePinCarResponse#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/PinCarOrderEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/daoImpl/PinCarOrderEntityDaoImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="56" column="16" selection-start-line="56" selection-start-column="16" selection-end-line="56" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetAppropriatePinCarRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="645">
+          <caret line="51" column="30" selection-start-line="51" selection-start-column="30" selection-end-line="51" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/VerifyCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="394">
+          <caret line="48" column="38" lean-forward="true" selection-start-line="48" selection-start-column="38" selection-end-line="48" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/SyncPositionRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" selection-start-line="11" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="e#394#395#0" expanded="true" />
+            <element signature="e#426#427#0" expanded="true" />
+            <element signature="e#476#477#0" expanded="true" />
+            <element signature="e#518#519#0" expanded="true" />
+            <element signature="e#553#554#0" expanded="true" />
+            <element signature="e#584#585#0" expanded="true" />
+            <element signature="e#632#633#0" expanded="true" />
+            <element signature="e#672#673#0" expanded="true" />
+            <element signature="e#708#709#0" expanded="true" />
+            <element signature="e#740#741#0" expanded="true" />
+            <element signature="e#790#791#0" expanded="true" />
+            <element signature="e#832#833#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/VerifyCodeRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="30" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="30" />
+          <folding>
+            <element signature="e#295#296#0" expanded="true" />
+            <element signature="e#326#327#0" expanded="true" />
+            <element signature="e#374#375#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#598#599#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/JoinPinCarRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#288#289#0" expanded="true" />
+            <element signature="e#318#319#0" expanded="true" />
+            <element signature="e#364#365#0" expanded="true" />
+            <element signature="e#402#403#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/SyncPosition.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="501">
+          <caret line="55" column="119" selection-start-line="55" selection-start-column="119" selection-end-line="55" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetUnregisterUser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="34" selection-start-line="34" selection-end-line="46" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/MappingCarUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="39" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/UserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/PinCarOrderEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/JoinPinCarResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="174">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#603#604#0" expanded="true" />
+            <element signature="e#648#649#0" expanded="true" />
+            <element signature="e#700#701#0" expanded="true" />
+            <element signature="e#752#753#0" expanded="true" />
+            <element signature="e#795#796#0" expanded="true" />
+            <element signature="e#842#843#0" expanded="true" />
+            <element signature="e#898#899#0" expanded="true" />
+            <element signature="e#954#955#0" expanded="true" />
+            <element signature="e#1878#1879#0" expanded="true" />
+            <element signature="e#1916#1917#0" expanded="true" />
+            <element signature="e#1966#1967#0" expanded="true" />
+            <element signature="e#2012#2013#0" expanded="true" />
+            <element signature="e#2065#2066#0" expanded="true" />
+            <element signature="e#2109#2110#0" expanded="true" />
+            <element signature="e#2180#2181#0" expanded="true" />
+            <element signature="e#2238#2239#0" expanded="true" />
+            <element signature="e#2309#2310#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2577#2578#0" expanded="true" />
+            <element signature="e#2618#2619#0" expanded="true" />
+            <element signature="e#2698#2699#0" expanded="true" />
+            <element signature="e#2750#2751#0" expanded="true" />
+            <element signature="e#2783#2784#0" expanded="true" />
+            <element signature="e#2819#2820#0" expanded="true" />
+            <element signature="e#2862#2863#0" expanded="true" />
+            <element signature="e#2904#2905#0" expanded="true" />
+            <element signature="e#2977#2978#0" expanded="true" />
+            <element signature="e#3005#3006#0" expanded="true" />
+            <element signature="e#3051#3052#0" expanded="true" />
+            <element signature="e#3085#3086#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/MappingCarPlaceEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="3" selection-start-line="18" selection-start-column="3" selection-end-line="18" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/PlaceEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" column="26" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/CreatePinCarOrderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="15" column="18" selection-start-line="15" selection-start-column="18" selection-end-line="15" selection-end-column="18" />
+          <folding>
+            <element signature="e#686#687#0" expanded="true" />
+            <element signature="e#726#727#0" expanded="true" />
+            <element signature="e#780#781#0" expanded="true" />
+            <element signature="e#830#831#0" expanded="true" />
+            <element signature="e#869#870#0" expanded="true" />
+            <element signature="e#908#909#0" expanded="true" />
+            <element signature="e#960#961#0" expanded="true" />
+            <element signature="e#1008#1009#0" expanded="true" />
+            <element signature="e#1048#1049#0" expanded="true" />
+            <element signature="e#1088#1089#0" expanded="true" />
+            <element signature="e#1142#1143#0" expanded="true" />
+            <element signature="e#1192#1193#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/JoinPinCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="219">
+          <caret line="31" column="13" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetBusinessAllPinGoodOrderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="35" selection-start-line="18" selection-start-column="35" selection-end-line="18" selection-end-column="35" />
+          <folding>
+            <element signature="e#537#538#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#633#634#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/dao/PinGoodOrderEntityDao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetAppropriatePinCar.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-35">
+          <caret line="41" column="33" selection-start-line="41" selection-start-column="33" selection-end-line="41" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/Const.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetBusinessAllPinGoodOrderResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="24" column="36" selection-start-line="24" selection-start-column="36" selection-end-line="24" selection-end-column="36" />
+          <folding>
+            <element signature="e#664#665#0" expanded="true" />
+            <element signature="e#714#715#0" expanded="true" />
+            <element signature="e#760#761#0" expanded="true" />
+            <element signature="e#798#799#0" expanded="true" />
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#886#887#0" expanded="true" />
+            <element signature="e#932#933#0" expanded="true" />
+            <element signature="e#980#981#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1080#1081#0" expanded="true" />
+            <element signature="e#1128#1129#0" expanded="true" />
+            <element signature="e#1176#1177#0" expanded="true" />
+            <element signature="e#1215#1216#0" expanded="true" />
+            <element signature="e#1276#1277#0" expanded="true" />
+            <element signature="e#1324#1325#0" expanded="true" />
+            <element signature="class#InnerItem#0;class#InnerOrder#0;class#GetBusinessAllPinGoodOrderResponse#0" />
+            <element signature="e#594#595#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#691#692#0" expanded="true" />
+            <element signature="e#743#744#0" expanded="true" />
+            <element signature="e#786#787#0" expanded="true" />
+            <element signature="e#833#834#0" expanded="true" />
+            <element signature="e#889#890#0" expanded="true" />
+            <element signature="e#945#946#0" expanded="true" />
+            <element signature="e#1283#1284#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+            <element signature="e#1389#1390#0" expanded="true" />
+            <element signature="e#1449#1450#0" expanded="true" />
+            <element signature="e#1490#1491#0" expanded="true" />
+            <element signature="e#1538#1539#0" expanded="true" />
+            <element signature="e#1593#1594#0" expanded="true" />
+            <element signature="e#1651#1652#0" expanded="true" />
+            <element signature="class#InnerUser#0;class#InnerOrder#0;class#GetBusinessAllPinGoodOrderResponse#0" />
+            <element signature="e#2061#2062#0" expanded="true" />
+            <element signature="e#2106#2107#0" expanded="true" />
+            <element signature="e#2158#2159#0" expanded="true" />
+            <element signature="e#2210#2211#0" expanded="true" />
+            <element signature="e#2253#2254#0" expanded="true" />
+            <element signature="e#2300#2301#0" expanded="true" />
+            <element signature="e#2356#2357#0" expanded="true" />
+            <element signature="e#2412#2413#0" expanded="true" />
+            <element signature="e#2600#2601#0" expanded="true" />
+            <element signature="e#2632#2633#0" expanded="true" />
+            <element signature="e#2692#2693#0" expanded="true" />
+            <element signature="e#2734#2735#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/CreatePinGoodResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="32" selection-start-line="18" selection-start-column="32" selection-end-line="18" selection-end-column="32" />
+          <folding>
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#503#504#0" expanded="true" />
+            <element signature="e#541#542#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/CreateGoodOrderRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="538">
+          <caret line="40" column="5" lean-forward="true" selection-start-line="40" selection-start-column="5" selection-end-line="40" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#806#807#0" expanded="true" />
+            <element signature="e#839#840#0" expanded="true" />
+            <element signature="e#891#892#0" expanded="true" />
+            <element signature="e#935#936#0" expanded="true" />
+            <element signature="e#1025#1026#0" expanded="true" />
+            <element signature="e#1056#1057#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/BusinessEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="18" column="219" selection-start-line="18" selection-start-column="219" selection-end-line="18" selection-end-column="219" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/CreatePinCarOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/PinGoodOrderEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="14" column="124" selection-start-line="14" selection-start-column="124" selection-end-line="14" selection-end-column="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/MappingGoodUserEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/MappingGoodItemEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="12" column="109" selection-start-line="12" selection-start-column="109" selection-end-line="12" selection-end-column="109" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/CreatePinGood.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="58" column="101" selection-start-line="58" selection-start-column="101" selection-end-line="58" selection-end-column="101" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/GetBusinessAllItemRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
+          <folding>
+            <element signature="e#479#480#0" expanded="true" />
+            <element signature="e#512#513#0" expanded="true" />
+            <element signature="e#564#565#0" expanded="true" />
+            <element signature="e#608#609#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/response/GetBusinessAllItemResponse.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#478#479#0" expanded="true" />
+            <element signature="e#509#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/utils/Util.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="196" column="18" selection-start-line="196" selection-start-column="18" selection-end-line="196" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/request/LoginRequest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="30" column="66" selection-start-line="30" selection-start-column="66" selection-end-line="30" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllPinGoodOrder.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1046">
+          <caret line="116" column="115" selection-start-line="116" selection-start-column="115" selection-end-line="116" selection-end-column="115" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/Login.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="36" selection-start-line="36" selection-end-line="36" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/entity/ItemEntity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/vaskka/web/iicamp/handler/GetBusinessAllItem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="900">
+          <caret line="60" column="103" selection-start-line="60" selection-start-column="103" selection-end-line="60" selection-end-column="103" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor>
+            <show-content>
+              <type id="artifact" />
+              <type id="javaee-facet-resources" />
+              <type id="library" />
+              <type id="jpa-descriptors" />
+            </show-content>
+          </artifact-editor>
+          <last-edited>FT:war exploded2</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Web (FT)|Web</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>FT</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>10</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>gson</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

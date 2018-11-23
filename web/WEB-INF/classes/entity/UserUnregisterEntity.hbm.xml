@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.UserUnregisterEntity" table="user_unregister" schema="ibm_icbc">
+        <id name="userUnregisterId" column="user_unregister_id">
+            <generator class="uuid"/>
+        </id>
+        <property name="userUnregisterSex" column="user_unregister_sex"/>
+        <property name="userUnregisterRealName" column="user_unregister_real_name"/>
+        <property name="userUnregisterNickName" column="user_unregister_nick_name"/>
+        <property name="userUnregisterPasswordHash" column="user_unregister_password_hash"/>
+        <property name="userUnregisterPhoneNumber" column="user_unregister_phone_number"/>
+        <property name="userUnregisterIdCard" column="user_unregister_id_card"/>
+        <property name="userUnregisterBankCard" column="user_unregister_bank_card"/>
+        <property name="userUnregisterVerifyId" column="user_unregister_verify_id"/>
+    </class>
+</hibernate-mapping>

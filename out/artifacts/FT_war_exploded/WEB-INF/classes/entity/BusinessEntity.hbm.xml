@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.BusinessEntity" table="business" schema="ibm_icbc">
+        <id name="businessId" column="business_id" >
+            <generator class="uuid"/>
+        </id>
+        <property name="bussinessCreateTime" column="bussiness_create_time"/>
+        <property name="businessName" column="business_name"/>
+        <property name="businessType" column="business_type"/>
+        <property name="businessPlaceId" column="business_place_id"/>
+        <property name="businessSalesVolume" column="business_sales_volume"/>
+        <property name="businessStartValue" column="business_start_value"/>
+        <property name="businessCommentValue" column="business_comment_value"/>
+    </class>
+</hibernate-mapping>

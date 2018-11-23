@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.PinGoodOrderEntity" table="pin_good_order" schema="ibm_icbc">
+        <id name="goodOrderId" column="good_order_id">
+            <generator class="uuid"/>
+        </id>
+        <property name="goodFromBusinessId" column="good_from_business_id"/>
+        <property name="goodStatus" column="good_status"/>
+        <property name="goodCreateTime" column="good_create_time"/>
+    </class>
+</hibernate-mapping>

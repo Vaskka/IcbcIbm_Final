@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.MappingCarPlaceEntity" table="mapping_car_place" schema="ibm_icbc">
+        <id name="carPlaceMappingId" column="car_place_mapping_id">
+        <generator class="uuid"></generator>
+        </id>
+        <property name="mappingCarOrderId" column="mapping_car_order_id"/>
+        <property name="mappingPlaceId" column="mapping_place_id"/>
+    </class>
+</hibernate-mapping>

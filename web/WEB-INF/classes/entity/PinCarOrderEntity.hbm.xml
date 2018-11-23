@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!DOCTYPE hibernate-mapping PUBLIC
+    "-//Hibernate/Hibernate Mapping DTD 3.0//EN"
+    "http://www.hibernate.org/dtd/hibernate-mapping-3.0.dtd">
+<hibernate-mapping>
+
+    <class name="entity.PinCarOrderEntity" table="pin_car_order" schema="ibm_icbc">
+        <id name="pinCarOrderId" column="pin_car_order_id">
+            <generator class="uuid"/>
+        </id>
+        <property name="pinCarOrderStartPlaceId" column="pin_car_order_start_place_id"/>
+        <property name="pinCarOrderDestinationId" column="pin_car_order_destination_id"/>
+        <property name="pinCarOrderCurrentValue" column="pin_car_order_current_value"/>
+        <property name="pinCarOrderCreateTime" column="pin_car_order_create_time"/>
+        <property name="pinCarOrderStatus" column="pin_car_order_status"/>
+    </class>
+</hibernate-mapping>
