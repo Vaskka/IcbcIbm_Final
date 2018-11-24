@@ -1,10 +1,18 @@
 <component name="libraryTable">
   <library name="lib">
     <CLASSES>
-      <root url="file://$PROJECT_DIR$/web/WEB-INF/lib" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/mysql-connector-java-5.1.47-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/icbc-api-sdk-cop-io.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/icbc-api-sdk-cop.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/icbc-ca.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/InfosecCrypto_Java1_02_JDK14+.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/proguard.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/servlet-api.jar!/" />
+      <root url="jar://$PROJECT_DIR$/web/WEB-INF/lib/TestAPISdk_jar/TestAPISdk.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/gson-2.8.5.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
-    <jarDirectory url="file://$PROJECT_DIR$/web/WEB-INF/lib" recursive="false" />
   </library>
 </component>

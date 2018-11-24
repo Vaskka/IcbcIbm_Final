@@ -11,6 +11,8 @@ public class PlaceEntity {
     private double latitude;
     private String placeName;
 
+    public PlaceEntity() {
+    }
 
     public PlaceEntity(String placeId, double longitude, double latitude, String placeName) {
         this.placeId = placeId;

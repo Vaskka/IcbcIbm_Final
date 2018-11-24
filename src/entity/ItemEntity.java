@@ -13,6 +13,18 @@ public class ItemEntity {
     private String itemName;
     private int itemCount;
 
+    public ItemEntity() {
+    }
+
+    public ItemEntity(String itemId, String itemFromBusinessId, int itemValue, String itemImage, String itemName, int itemCount) {
+        this.itemId = itemId;
+        this.itemFromBusinessId = itemFromBusinessId;
+        this.itemValue = itemValue;
+        this.itemImage = itemImage;
+        this.itemName = itemName;
+        this.itemCount = itemCount;
+    }
+
     @Id
     @Column(name = "item_id")
     public String getItemId() {

@@ -12,6 +12,8 @@ public class CarRequirementEntity {
     private int carRequirementPassengerSex;
     private int carRequirementMaxPassenger;
 
+    public CarRequirementEntity() {}
+
     public CarRequirementEntity(String carRequirementId, String carRequirementUserId, int carRequirementDriverSex, int carRequirementPassengerSex, int carRequirementMaxPassenger) {
         this.carRequirementId = carRequirementId;
         this.carRequirementUserId = carRequirementUserId;

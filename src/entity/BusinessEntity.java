@@ -16,6 +16,8 @@ public class BusinessEntity {
     private int businessStartValue;
     private Integer businessCommentValue;
 
+    public BusinessEntity() {}
+
     public BusinessEntity(String businessId, Timestamp bussinessCreateTime, String businessName, int businessType, String businessPlaceId, int businessSalesVolume, int businessStartValue, Integer businessCommentValue) {
         this.businessId = businessId;
         this.bussinessCreateTime = bussinessCreateTime;

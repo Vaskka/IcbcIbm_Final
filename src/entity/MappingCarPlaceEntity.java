@@ -10,6 +10,15 @@ public class MappingCarPlaceEntity {
     private String mappingCarOrderId;
     private String mappingPlaceId;
 
+    public MappingCarPlaceEntity() {
+    }
+
+    public MappingCarPlaceEntity(String carPlaceMappingId, String mappingCarOrderId, String mappingPlaceId) {
+        this.carPlaceMappingId = carPlaceMappingId;
+        this.mappingCarOrderId = mappingCarOrderId;
+        this.mappingPlaceId = mappingPlaceId;
+    }
+
     @Id
     @Column(name = "car_place_mapping_id")
     public String getCarPlaceMappingId() {

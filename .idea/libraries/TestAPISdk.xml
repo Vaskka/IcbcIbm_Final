@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="TestAPISdk">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/TestAPISdk.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

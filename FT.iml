@@ -56,8 +56,15 @@
         <jarDirectory url="file://$MODULE_DIR$/web/WEB-INF/lib" recursive="false" />
       </library>
     </orderEntry>
-    <orderEntry type="library" name="mysql:mysql-connector-java:8.0.13" level="project" />
-    <orderEntry type="library" name="lib" level="project" />
-    <orderEntry type="library" name="gson" level="project" />
+    <orderEntry type="library" exported="" name="mysql:mysql-connector-java:8.0.13" level="project" />
+    <orderEntry type="library" exported="" name="lib" level="project" />
+    <orderEntry type="library" name="commons-logging-1.2" level="project" />
+    <orderEntry type="library" name="icbc-api-sdk-cop" level="project" />
+    <orderEntry type="library" name="icbc-api-sdk-cop-io" level="project" />
+    <orderEntry type="library" name="icbc-ca" level="project" />
+    <orderEntry type="library" name="InfosecCrypto_Java1_02_JDK14+" level="project" />
+    <orderEntry type="library" name="proguard" level="project" />
+    <orderEntry type="library" name="servlet-api" level="project" />
+    <orderEntry type="library" name="TestAPISdk" level="project" />
   </component>
 </module>

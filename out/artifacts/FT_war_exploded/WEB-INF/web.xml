@@ -11,4 +11,114 @@
         <servlet-name>Test</servlet-name>
         <url-pattern>/test</url-pattern>
     </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>CreatePinCarOrder</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.CreatePinCarOrder</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreatePinCarOrder</servlet-name>
+        <url-pattern>/CreatePinCarOrder</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>CreatePinGood</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.CreatePinGood</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>CreatePinGood</servlet-name>
+        <url-pattern>/CreatePinGood</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetAppropriatePinCar</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetAppropriatePinCar</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetAppropriatePinCar</servlet-name>
+        <url-pattern>/GetAppropriatePinCar</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>GetBusinessAllItem</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetBusinessAllItem</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetBusinessAllItem</servlet-name>
+        <url-pattern>/GetBusinessAllItem</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>GetBusinessAllPinGoodOrder</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetBusinessAllPinGoodOrder</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetBusinessAllPinGoodOrder</servlet-name>
+        <url-pattern>/GetBusinessAllPinGoodOrder</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>GetUnregisterUser</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetUnregisterUser</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetUnregisterUser</servlet-name>
+        <url-pattern>/GetUnregisterUser</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>JoinPinCar</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.JoinPinCar</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>JoinPinCar</servlet-name>
+        <url-pattern>/JoinPinCar</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>Login</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.Login</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>Login</servlet-name>
+        <url-pattern>/Login</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>SyncPosition</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.SyncPosition</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>SyncPosition</servlet-name>
+        <url-pattern>/SyncPosition</url-pattern>
+    </servlet-mapping>
+
+
+    <servlet>
+        <servlet-name>VerifyCode</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.VerifyCode</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>VerifyCode</servlet-name>
+        <url-pattern>/VerifyCode</url-pattern>
+    </servlet-mapping>
+
+    <servlet>
+        <servlet-name>GetLittlePay</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetLittlePay</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetLittlePay</servlet-name>
+        <url-pattern>/GetLittlePay</url-pattern>
+    </servlet-mapping>
+
+
+
 </web-app>

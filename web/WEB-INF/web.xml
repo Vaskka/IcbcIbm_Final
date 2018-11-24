@@ -110,6 +110,15 @@
         <url-pattern>/VerifyCode</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>GetLittlePay</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.GetLittlePay</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>GetLittlePay</servlet-name>
+        <url-pattern>/GetLittlePay</url-pattern>
+    </servlet-mapping>
+
 
 
 </web-app>
