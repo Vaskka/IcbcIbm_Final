@@ -19,6 +19,7 @@ import entity.*;
 import util.HibernateUtil;
 
 import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
 import javax.servlet.http.HttpServlet;
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
@@ -34,6 +35,7 @@ import static com.vaskka.web.iicamp.utils.Util.httpOutput;
  * @create: 2018/11/23 10:50 PM
  **/
 
+@WebServlet(name = "GetBusinessAllPinGoodOrder")
 public class GetBusinessAllPinGoodOrder extends HttpServlet {
 
 
