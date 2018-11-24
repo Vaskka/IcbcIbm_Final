@@ -119,6 +119,15 @@
         <url-pattern>/GetLittlePay</url-pattern>
     </servlet-mapping>
 
+    <servlet>
+        <servlet-name>DoLittlePay</servlet-name>
+        <servlet-class>com.vaskka.web.iicamp.handler.DoLittlePay</servlet-class>
+    </servlet>
+    <servlet-mapping>
+        <servlet-name>DoLittlePay</servlet-name>
+        <url-pattern>/DoLittlePay</url-pattern>
+    </servlet-mapping>
+
 
 
 </web-app>

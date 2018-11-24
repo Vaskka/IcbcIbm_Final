@@ -20,7 +20,7 @@ import static com.vaskka.web.iicamp.utils.Util.httpOutput;
  * @author: Vaskka
  * @create: 2018/11/24 4:14 PM
  **/
-
+@WebServlet(name = "DoLittlePay")
 public class DoLittlePay extends HttpServlet {
 
     protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
